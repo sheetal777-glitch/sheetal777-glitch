@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate with **ladies interested in Flutter**
+- 👯 I’m looking for **Flutter Internship**
 
 - 📫 How to reach me **sheetalguragain@gmail.com**
 
